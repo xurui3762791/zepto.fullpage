@@ -81,7 +81,6 @@
 - 循环滚动 v0.2.0 [√]
 
 ## 谁在使用
-**注:如果您也在使用，欢迎[反馈给我](https://github.com/yanhaijing/zepto.fullpage/issues/9)**
 
 - [百度知道](http://zhidao.baidu.com/)
 - [百度经验](http://jingyan.baidu.com/)
