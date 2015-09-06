@@ -1,9 +1,9 @@
 {
   "name": "zepto.fullpage",
   "version": "0.3.1",
-  "homepage": "https://github.com/yanhaijing/zepto.fullpage",
+  "homepage": "https://github.com/xurui3762791/zepto.fullpage",
   "authors": [
-    "yanhaijing <yanhaijing@yeah.net>"
+    // "yanhaijing <yanhaijing@yeah.net>"
   ],
   "description": "A zepto plugin to create fullpage scrolling webapps",
   "main": "src/zepto.fullpage.css,src/zepto.fullpage.js",
