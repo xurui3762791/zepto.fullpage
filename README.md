@@ -97,7 +97,3 @@
 - [zepto-onepage-scroll](https://github.com/peachananr/zepto-onepage-scroll)
 - [parallax.js](https://github.com/hahnzhu/parallax.js)
 - [H5FullscreenPage](https://github.com/lvming6816077/H5FullscreenPage)
-
-## 自动化工具
-- [爆米兔移动营销平台](http://www.baomitu.com/)
-- [数说 · Legend(度厂内部)](http://legend.baidu.com/) 
